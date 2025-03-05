@@ -1,5 +1,5 @@
 <h1 align="center"><a href="https://aaromalonline.github.io">Hi 👋, I'm Aaromal A</a></h1>
-<h3 align="center">Btech ECE'28 @ CUSAT | Aspiring Technopreneur & Competitive Programmer</h3>
+<h3 align="center">Btech ECE'28 @ CUSAT | Aspiring Technopreneur | Competitive Programmer</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-19-blue" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
