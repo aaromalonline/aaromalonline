@@ -1,4 +1,9 @@
-<h2 align="left">Hey 👋,  I am Aaromal A</h2>
+<h1 align="center">Hi 👋, I'm </h1> # [Aaromal A](https://aaromalonline.github.io)
+<h3 align="center">Btech ECE'28 @ CUSAT | Aspiring Technopreneur & Competitive Programmer</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-19-blue" />
+  <img src="https://img.shields.io/badge/Lives-Kerala-success" />
+</p>
 
 
 ## 🌐 Socials:
